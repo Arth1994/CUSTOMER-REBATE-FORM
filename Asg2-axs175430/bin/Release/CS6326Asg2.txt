@@ -1,0 +1,10 @@
+Aaaaaaaaaa1	F	Bbbbbbbbbb	1234 Main St.		Dallas	TX	75001	Male	1112223333	abc@utdallas.edu	Yes	9/30/2018 8:00:40 PM	20:00:47.8104738	20:01:28.1581114	1	
+Aaaaaaaaaa2	F	Bbbbbbbbbb	1234 Main St.		Dallas	TX	75001	Male	1112223333	abc@utdallas.edu	Yes	9/30/2018 8:01:28 PM	20:01:37.8248596	20:02:14.3136398	1	
+Aaaaaaaaaa3	F	Bbbbbbbbbb	1234 Main St.		Dallas	TX	75001	Male	1112223333	abc@utdallas.edu	Yes	9/30/2018 8:02:14 PM	20:02:57.3634873	20:03:29.3432992	2	
+Aaaaaaaaaa4	F	Bbbbbbbbbb	1234 Main St.		Dallas	TX	75001	Male	1112223333	abc@utdallas.edu	Yes	9/30/2018 8:03:29 PM	20:03:45.2027921	20:04:18.4817451	3	
+Aaaaaaaaaa5	F	Bbbbbbbbbb	1234 Main St.		Dallas	TX	75001	Male	1112223333	abc@utdallas.edu	Yes	9/30/2018 8:04:18 PM	20:04:27.8087471	20:05:04.1411089	1	
+Aaaaaaaaaa6	F	Bbbbbbbbbb	1234 Main St.		Dallas	TX	75001	Male	1112223333	abc@utdallas.edu	Yes	9/30/2018 8:05:04 PM	20:05:24.5051460	20:05:56.4578948	6	
+Aaaaaaaaaa7	F	Bbbbbbbbbb	1234 Main St.		Dallas	TX	75001	Male	1112223333	abc@utdallas.edu	Yes	9/30/2018 8:05:56 PM	20:06:53.8521365	20:07:25.8251847	6	
+Aaaaaaaaaa8	F	Bbbbbbbbbb	1234 Main St.		Dallas	TX	75001	Male	1112223333	abc@utdallas.edu	Yes	9/30/2018 8:07:25 PM	20:07:53.1335577	20:08:28.4897181	13	
+Aaaaaaaaaa9	F	Bbbbbbbbbb	1234 Main St.		Dallas	TX	75001	Male	1112223333	abc@utdallas.edu	Yes	9/30/2018 8:08:28 PM	20:08:41.2293890	20:09:15.5186793	14	
+Aaaaaaaaaa10	F	Bbbbbbbbbb	1234 Main St.		Dallas	TX	75001	Male	1112223333	abc@utdallas.edu	Yes	9/30/2018 8:09:15 PM	20:09:31.2092571	20:10:09.3740494	16	
